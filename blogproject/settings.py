@@ -127,10 +127,12 @@ USE_TZ = False
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
+'''
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
+'''
 
 HAYSTACK_CONNECTIONS = {
     'default': {
@@ -141,3 +143,6 @@ HAYSTACK_CONNECTIONS = {
 HAYSTACK_SEARCH_RESULTS_PER_PAGE = 10
 HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 
+STATIC_URL = '/static/'
+# 加入下面的配置
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
