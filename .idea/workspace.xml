@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b2ccbc-7e20-47c3-893b-ae3aaaf02521" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="97b2ccbc-7e20-47c3-893b-ae3aaaf02521" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,12 +157,12 @@
       <workItem from="1552554986676" duration="763000" />
       <workItem from="1552569966892" duration="803000" />
       <workItem from="1552733352170" duration="2876000" />
-      <workItem from="1552875597644" duration="1250000" />
+      <workItem from="1552875597644" duration="1680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10941000" />
+    <option name="totallyTimeSpent" value="11371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="510" y="20" width="928" height="600" extended-state="0" />
