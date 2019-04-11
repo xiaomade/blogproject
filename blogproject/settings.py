@@ -25,7 +25,7 @@ SECRET_KEY = 'i1)cui_rm!flscdqd1@v%$9&h9iv0*frc4r8vi8(4pe#zt%=*x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.0','localhost','192.168.248.128']
+ALLOWED_HOSTS = ['127.0.0.0','localhost','134.175.154.22']
 
 
 # Application definition
@@ -126,13 +126,6 @@ USE_TZ = False
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
-
-'''
-STATIC_URL = '/static/'
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
-]
-'''
 
 HAYSTACK_CONNECTIONS = {
     'default': {
